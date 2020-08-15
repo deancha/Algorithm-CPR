@@ -38,6 +38,7 @@ public class Main_14502_연구소 {
 		// ============= 입력 =================
 		N = Integer.parseInt(st.nextToken());
 		M = Integer.parseInt(st.nextToken());
+		
 		maxSafeZone = 0;
 
 		map = new int[N][M];
